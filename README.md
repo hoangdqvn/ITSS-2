@@ -35,3 +35,7 @@
 |3|Tạ Quyền Anh|Quick Info|
 |4|Đoàn Duy Phương|Wiki|
 |5|Đặng Quang Hoàng|Data Graph|
+
+# **III. Deploy** #
+
+Open [Coronavirus Tracker](https://hoangdqvn.github.io/covid19/) to view it in the browser.
