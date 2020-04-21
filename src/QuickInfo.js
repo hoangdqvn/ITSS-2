@@ -29,7 +29,7 @@ class QuickInfo extends React.Component {
     return x;
   }
   componentWillMount(){
-    axios.get('https://corona.lmao.ninja/all')
+    axios.get('https://corona.lmao.ninja/v2/all')
       .then(res =>{
         let temp = {
           cases: res.data.cases,

@@ -12,7 +12,7 @@ class News extends Component{
     }
   }
   componentWillMount(){
-    axios.get('http://newsapi.org/v2/top-headlines?country=jp&q=%E3%82%B3%E3%83%AD%E3%83%8A&apiKey=8c054655f3634c11bab3ea4a251566b4')
+    axios.get('https://newsapi.org/v2/top-headlines?country=jp&q=コロナ&apiKey=d4a25310fa454cfb8a845b6e9b9872da')
          .then(res => {
           this.setState({ news : res.data })
         })

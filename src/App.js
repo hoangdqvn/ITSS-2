@@ -38,7 +38,7 @@ class App extends React.Component {
     return x;
   }
   componentWillMount(){
-    axios.get('https://corona.lmao.ninja/countries?sort=cases')
+    axios.get('https://corona.lmao.ninja/v2/countries?sort=cases')
          .then(res => {
            this.setState({ data: res.data, world: res.data[0] })
          })
