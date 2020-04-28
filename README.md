@@ -1,3 +1,5 @@
+<p align="center"><a href="https://hoangdqvn.github.io/covid19/"><img src="public/corona.webp?raw=true"/></a></p>
+
 # **I. Info** #
 
 ## Group ##
