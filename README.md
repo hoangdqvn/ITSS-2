@@ -1,4 +1,4 @@
-<p align="center"><a href="https://hoangdqvn.github.io/covid19/"><img src="public/corona.webp?raw=true" width="20" height="20"/></a></p>
+<p align="center"><a href="https://hoangdqvn.github.io/covid19/"><img src="public/corona.webp?raw=true" width="200" height="200"/></a></p>
 
 # **I. Info** #
 
